@@ -23,7 +23,7 @@ navigation:
   - name: 소개
     url: /about
   - name: 서비스
-    url: 'https://www.umentor.co.kr/'
+    url: '/'
 
 # Pagination
 paginate: 5
